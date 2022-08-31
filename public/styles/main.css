@@ -12,9 +12,13 @@ body {
     margin-top: 75px;
 }
 
-.card {
+.card, #flyer {
     background-color:#fff9ef;
 }
+#flyer a {
+    color: #800000;
+}
+
 .btn {
     padding: 0;
 }
@@ -36,3 +40,7 @@ opacity: .7;
 FFF5DB
 #9CC27E
 */
+
+#schedule {
+    background-color: white;
+}
