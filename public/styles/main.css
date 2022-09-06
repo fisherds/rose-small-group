@@ -15,7 +15,7 @@ body {
 .card, #flyer {
     background-color:#fff9ef;
 }
-#flyer a {
+#flyer a, .red {
     color: #800000;
 }
 
@@ -43,4 +43,10 @@ FFF5DB
 
 #schedule {
     background-color: white;
+}
+
+.chapter-number {
+    font-size: 2em;
+    font-weight: 700;
+    background-color:#fff9ef;
 }
