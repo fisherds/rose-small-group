@@ -60,3 +60,7 @@ FFF5DB
     -webkit-box-orient: vertical;
     height: 0px;
 }
+
+.schedule-heading {
+    color: white;
+}
